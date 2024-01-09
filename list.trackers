@@ -13,12 +13,25 @@
 # Download: https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # MIT license
 #
-# More trackers added from AdGuard CNAME disguised trackers list, MIT license
+# AdGuard CNAME disguised trackers list, MIT license
 # https://github.com/AdguardTeam/cname-trackers
 # Download: https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
 # MIT license
 #
 
+# Firefox browser
+127.0.0.1 incoming.telemetry.mozilla.org
+127.0.0.1 contile.services.mozilla.com
+127.0.0.1 getpocket.com
+
+# Brave browser
+127.0.0.1 matomo.brave.com
+127.0.0.1 metric-proxy.brave.com
+127.0.0.1 p3a.brave.com
+127.0.0.1 rewards.brave.com
+127.0.0.1 variations.brave.com
+
+# lists: notrack, blocklistproject, Geoffrey Fogeye, AdGuard CNAME
 127.0.0.1 mparticle.weather.com
 127.0.0.1 adsninja.ca
 127.0.0.1 bioscience.biomb.ca
