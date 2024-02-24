@@ -8321,7 +8321,7 @@
 127.0.0.1 glancecdn.net
 127.0.0.1 tuplogpublic.bangcdn.net
 127.0.0.1 inmobicdn.net
-127.0.0.1 chicdn.net
+# 127.0.0.1 chicdn.net
 127.0.0.1 zkcdn.net
 127.0.0.1 fpnpmcdn.net
 127.0.0.1 euleriancdn.net
