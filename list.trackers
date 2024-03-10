@@ -31,6 +31,17 @@
 127.0.0.1 rewards.brave.com
 127.0.0.1 variations.brave.com
 
+# etc
+127.0.0.1 apisgoogle.org
+127.0.0.1 pepepush.net
+127.0.0.1 supapush.net
+127.0.0.1 fedapush.net
+127.0.0.1 astivysauran.com
+127.0.0.1 ixhtb.s9gxw8.com
+127.0.0.1 alog.umeng.com
+127.0.0.1 os71m.6kvses.com
+127.0.0.1 android-software-store.com
+
 # lists: notrack, blocklistproject, Geoffrey Fogeye, AdGuard CNAME
 127.0.0.1 mparticle.weather.com
 127.0.0.1 adsninja.ca
