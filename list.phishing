@@ -1,5 +1,5 @@
 # This is a very aggressive anti-phishing blocklist extracted by running
-# some simple stats the following public feeds:
+# some simple stats on the following public feeds:
 #	OpenPhish: https://openphish.com/
 #	Phishing Database: https://github.com/mitchellkrogza/Phishing.Database
 #	Phishtank: https://phishtank.org/
