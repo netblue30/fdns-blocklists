@@ -53,7 +53,17 @@
 127.0.0.1 top
 
 # Dangerous domains introduced in 2022 by Google
-127.0.0.0 zip
-127.0.0.0 mov
+127.0.0.1 zip
+127.0.0.1 mov
+
+# etc
+127.0.0.1 cz.cc	# discontinued
+127.0.0.1 ws	# Western Samoa - ads, malware etc
+127.0.0.1 nu	# Niue - malware
+127.0.0.1 ltd	# limited company - malware
+127.0.0.1 space	# malware
+127.0.0.1 club	# malware
+127.0.0.1 gdn	# malware
+
 
 # More TLDs can be introduced by /etc/fdns/list.phishing
