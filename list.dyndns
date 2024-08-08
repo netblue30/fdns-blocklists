@@ -1308,6 +1308,7 @@
 127.0.0.1 zzux.com
 
 # ISPs
+127.0.0.1 fios.verizon.net
 127.0.0.1 bih.net.ba
 127.0.0.1 tel.net.ba
 127.0.0.1 europronet.ba
@@ -1316,6 +1317,7 @@
 127.0.0.1 eastlink.ca
 127.0.0.1 hsdb.sasknet.sk.ca
 127.0.0.1 sdsl.bell.ca
+127.0.0.1 dsl.bell.ca
 127.0.0.1 mc.videotron.ca
 127.0.0.1 iam.net.ma
 127.0.0.1 enet.vn.ua
@@ -1521,4 +1523,5 @@
 127.0.0.1 cybercable.net.mx
 127.0.0.1 tm.net.my
 127.0.0.1 prohoster.biz
+127.0.0.1 access.hol.gr
 
