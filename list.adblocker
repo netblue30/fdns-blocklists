@@ -3830,9 +3830,6 @@
 127.0.0.1 bannieres.capella.org
 127.0.0.1 mazilla.org
 127.0.0.1 ozilla.org
-127.0.0.1 links.email.mozilla.org
-127.0.0.1 discovery.addons.mozilla.org
-127.0.0.1 input.mozilla.org
 127.0.0.1 orgyzilla.org
 127.0.0.1 hola.org
 127.0.0.1 bitcoin-formula.org
@@ -13520,8 +13517,6 @@
 127.0.0.1 quizilla.com
 127.0.0.1 asianzilla.com
 127.0.0.1 gozilla.com
-127.0.0.1 contile.services.mozilla.com
-127.0.0.1 push.services.mozilla.com
 127.0.0.1 copzilla.com
 127.0.0.1 adserve.shopzilla.com
 127.0.0.1 shopzilla.com
@@ -40626,7 +40621,6 @@
 127.0.0.1 welcome.faptitans.com
 127.0.0.1 7sultans.com
 127.0.0.1 cache-dns.com
-127.0.0.1 mozilla.cloudflare-dns.com
 127.0.0.1 ctmail.dns-dns.com
 127.0.0.1 404dns.com
 127.0.0.1 sdfaswaed2.nokiadns.com
@@ -44382,8 +44376,6 @@
 127.0.0.1 tediousticket.com
 127.0.0.1 spadelocket.com
 127.0.0.1 jobsinpocket.com
-127.0.0.1 api.getpocket.com
-127.0.0.1 spocs.getpocket.com
 127.0.0.1 pluckypocket.com
 127.0.0.1 mp3rocket.com
 127.0.0.1 redrocket.com
@@ -57928,9 +57920,6 @@
 127.0.0.1 mail.bangla.net
 127.0.0.1 perttila.net
 127.0.0.1 monella.net
-127.0.0.1 snippets.cdn.mozilla.net
-127.0.0.1 getpocket.cdn.mozilla.net
-127.0.0.1 normandy.cdn.mozilla.net
 127.0.0.1 registration.freeola.net
 127.0.0.1 lola.net
 127.0.0.1 s.ayola.net

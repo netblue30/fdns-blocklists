@@ -19,18 +19,6 @@
 # MIT license
 #
 
-# Firefox browser
-127.0.0.1 incoming.telemetry.mozilla.org
-127.0.0.1 contile.services.mozilla.com
-127.0.0.1 getpocket.com
-
-# Brave browser
-127.0.0.1 matomo.brave.com
-127.0.0.1 metric-proxy.brave.com
-127.0.0.1 p3a.brave.com
-127.0.0.1 rewards.brave.com
-127.0.0.1 variations.brave.com
-
 # etc
 127.0.0.1 apisgoogle.org
 127.0.0.1 pepepush.net
