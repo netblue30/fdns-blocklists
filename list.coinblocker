@@ -1,13 +1,15 @@
-# rebuilt Oct 2, 2024
 # CoinBlockerList
 # https://gitlab.com/ZeroDot1/CoinBlockerLists
 # Download: https://gitlab.com/ZeroDot1/CoinBlockerLists/-/blob/master/hosts
-# AGPLv3 license
+# AGPLv3 License
 #
 # The Block List Project
 # Download: https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt
-# Unlicense license
-
+# Unlicense License
+#
+# History:
+# - Oct 2, 2024 - full rebuild
+#
 127.0.0.1 crypto.ba
 127.0.0.1 ak47.ca
 127.0.0.1 sickrage.ca
