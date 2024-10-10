@@ -1,16 +1,23 @@
-# rebuilt Oct 2, 2024
 # Steven Black's host file
 # https://github.com/StevenBlack/hosts
 # Download: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# MIT license
+# MIT License
 #
-# Incorporating Global Advert Servers Blocklist - Personal Edition, autohor Andy Short,
+# Global Advert Servers Blocklist - Personal Edition, author Andy Short,
 # Download: https://hostsfile.mine.nu/hosts.txt
-# LGPL license
+# LGPL License
 #
-# Incorporating Lightswitch05's ads-and-tracking-extended.txt list
+# Lightswitch05's ads-and-tracking-extended.txt list
 # Download: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 # Apache License, Version 2.0
+#
+# OISD big, domains wildcards
+# Download: https://big.oisd.nl/domainswild2
+# GPLv3 License
+#
+# History:
+# - Oct 10, 2024 - added OISD
+# - Oct 2, 2024 - full rebuild
 #
 127.0.0.1 all1count.net
 127.0.0.1 xn--5db1cab.xn--9dbq2a
