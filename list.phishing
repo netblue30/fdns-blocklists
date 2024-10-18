@@ -68,21 +68,48 @@
 127.0.0.1 dns-dynamic.net                # 514 (0.12%)
 127.0.0.1 urlz.fr                        # 459 (0.11%)
 
-
-# more websites:
-127.0.0.1 my.id
-127.0.0.1 93399426.ca
-127.0.0.1 brizy.site
-127.0.0.1 blogspot.bg
-127.0.0.1 blogspot.ug
+# blogspot
+127.0.0.1 blogspot.com.by
+127.0.0.1 blogspot.com.ng
+127.0.0.1 blogspot.com.eg
+127.0.0.1 blogspot.com.es
+127.0.0.1 blogspot.com.cy
+127.0.0.1 blogspot.sn
 127.0.0.1 blogspot.fi
+127.0.0.1 blogspot.md
+127.0.0.1 blogspot.is
+127.0.0.1 blogspot.hr
 127.0.0.1 blogspot.li
+127.0.0.1 blogspot.ug
+127.0.0.1 blogspot.bg
+127.0.0.1 blogspot.lu
+127.0.0.1 blogspot.am
+127.0.0.1 blogspot.tw
+127.0.0.1 blogspot.mk
+127.0.0.1 blogspot.qa
+127.0.0.1 blogspot.ba
+127.0.0.1 blogspot.ug
+
+
+# more websites
+127.0.0.1 93399426.ca
 127.0.0.1 367450.com
+127.0.0.1 my.id
+127.0.0.1 brizy.site
 127.0.0.1 myqcloud.com
 127.0.0.1 webadorsite.com
 127.0.0.1 oortech.com
 127.0.0.1 mikeaurelio.com
 127.0.0.1 godaddysites.com
 127.0.0.1 nylaproductions.com
+127.0.0.1 name.na
+127.0.0.1 replit.dev
+127.0.0.1 cloudns.biz
+
+
+
+
+
+
 
 
