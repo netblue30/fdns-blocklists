@@ -8,85 +8,70 @@
 # In case of false positives, comment out the domain in question (add a #).
 # Copyright FDNS authors, License GPLv3
 
-# Aug 27, 2024
-# loading openphish-2024-1.feed (92502)
+# Dec 11, 2024
 # loading openphish-2024-2.feed (93000)
-# loading openphish.feed (60500)
-# loading openphish-2023-2.nxdomain (39124)
-# loading phdb.nxdomain (56828)
-# loading phishstats-2024-07-14.nxdomain (21279)
-# loading phishstats-2024-08-03.nxdomain (28689)
-# loading phishtank.nxdomain (45595)
-# Input list(s): 437517 domains
-# Short list: heavily compressed list covering 53.03% of the input
-127.0.0.1 pages.dev                      # 30185 (6.92%)
-127.0.0.1 r2.dev                         # 29745 (6.82%)
-127.0.0.1 workers.dev                    # 26619 (6.10%)
-127.0.0.1 weeblysite.com                 # 26541 (6.08%)
-127.0.0.1 top                            # 11673 (2.67%)
-127.0.0.1 vercel.app                     # 8378 (1.92%)
-127.0.0.1 web.app                        # 7622 (1.75%)
-127.0.0.1 weebly.com                     # 7464 (1.71%)
-127.0.0.1 firebaseapp.com                # 7329 (1.68%)
-127.0.0.1 duckdns.org                    # 6682 (1.53%)
-127.0.0.1 wixsite.com                    # 5489 (1.26%)
-127.0.0.1 blogspot.sn                    # 4427 (1.01%)
-127.0.0.1 glitch.me                      # 3577 (0.82%)
-127.0.0.1 square.site                    # 3567 (0.82%)
-127.0.0.1 netlify.app                    # 3428 (0.79%)
-127.0.0.1 xyz                            # 3300 (0.76%)
-127.0.0.1 link                           # 3277 (0.75%)
-127.0.0.1 mybluehost.me                  # 2982 (0.68%)
-127.0.0.1 cn                             # 2933 (0.67%)
-127.0.0.1 cloudflare-ipfs.com            # 2639 (0.60%)
-127.0.0.1 cf-ipfs.com                    # 2565 (0.59%)
-127.0.0.1 cprapid.com                    # 2062 (0.47%)
-127.0.0.1 live                           # 1942 (0.44%)
-127.0.0.1 repl.co                        # 1881 (0.43%)
-127.0.0.1 blogspot.md                    # 1816 (0.42%)
-127.0.0.1 blogspot.hr                    # 1654 (0.38%)
-127.0.0.1 000webhostapp.com              # 1644 (0.38%)
-127.0.0.1 am                             # 1573 (0.36%)
-127.0.0.1 ipfs.io                        # 1441 (0.33%)
-127.0.0.1 pantheonsite.io                # 1424 (0.33%)
-127.0.0.1 webwave.dev                    # 1307 (0.30%)
-127.0.0.1 hergunavantaj.com.tr           # 1294 (0.30%)
-127.0.0.1 crazydomains.com               # 1239 (0.28%)
-127.0.0.1 surge.sh                       # 1195 (0.27%)
-127.0.0.1 download                       # 1174 (0.27%)
-127.0.0.1 codeanyapp.com                 # 1096 (0.25%)
-127.0.0.1 aragon.network                 # 1064 (0.24%)
-127.0.0.1 pages.net.br                   # 895 (0.21%)
-127.0.0.1 mystrikingly.com               # 859 (0.20%)
-127.0.0.1 terbaru-2023.com               # 842 (0.19%)
-127.0.0.1 cfd                            # 695 (0.16%)
-127.0.0.1 webcindario.com                # 684 (0.16%)
-127.0.0.1 replit.app                     # 635 (0.15%)
-127.0.0.1 icu                            # 580 (0.13%)
-127.0.0.1 club                           # 537 (0.12%)
-127.0.0.1 tw1.ru                         # 536 (0.12%)
-127.0.0.1 dns-dynamic.net                # 514 (0.12%)
-127.0.0.1 urlz.fr                        # 459 (0.11%)
-
-# more websites
-127.0.0.1 93399426.ca
-127.0.0.1 367450.com
-127.0.0.1 my.id
-127.0.0.1 brizy.site
-127.0.0.1 myqcloud.com
-127.0.0.1 webadorsite.com
-127.0.0.1 oortech.com
-127.0.0.1 mikeaurelio.com
-127.0.0.1 godaddysites.com
-127.0.0.1 nylaproductions.com
-127.0.0.1 name.na
-127.0.0.1 replit.dev
-127.0.0.1 cloudns.biz
-
-
-
-
-
-
-
-
+# loading openphish-2024-3.feed (98000)
+# loading openphish.feed (115978)
+# loading openphish-2023-2.nxdomain (34044)
+# loading openphish-2024-1.nxdomain (35479)
+# loading phdb.nxdomain (47647)
+# loading phishstats-2024.nxdomain (91072)
+# loading phishtank.nxdomain (43510)
+# Input list(s): 558730 domains
+# Short list: heavily compressed list covering 51.69% of the input
+127.0.0.1 r2.dev                         # 40958 (7.34%)
+127.0.0.1 weeblysite.com                 # 38262 (6.86%)
+127.0.0.1 pages.dev                      # 37643 (6.75%)
+127.0.0.1 vercel.app                     # 19469 (3.49%)
+127.0.0.1 workers.dev                    # 16800 (3.01%)
+127.0.0.1 top                            # 16369 (2.93%)
+127.0.0.1 weebly.com                     # 12723 (2.28%)
+127.0.0.1 web.app                        # 9146 (1.64%)
+127.0.0.1 wixsite.com                    # 8342 (1.49%)
+127.0.0.1 firebaseapp.com                # 8263 (1.48%)
+127.0.0.1 duckdns.org                    # 6587 (1.18%)
+127.0.0.1 netlify.app                    # 4860 (0.87%)
+127.0.0.1 glitch.me                      # 4672 (0.84%)
+127.0.0.1 square.site                    # 4095 (0.73%)
+127.0.0.1 link                           # 4010 (0.72%)
+127.0.0.1 xyz                            # 3903 (0.70%)
+127.0.0.1 blogspot.sn                    # 3848 (0.69%)
+127.0.0.1 live                           # 3723 (0.67%)
+127.0.0.1 mybluehost.me                  # 3446 (0.62%)
+127.0.0.1 cprapid.com                    # 2502 (0.45%)
+127.0.0.1 cn                             # 2335 (0.42%)
+127.0.0.1 ipfs.io                        # 2146 (0.38%)
+127.0.0.1 pantheonsite.io                # 1908 (0.34%)
+127.0.0.1 blogspot.md                    # 1651 (0.30%)
+127.0.0.1 blogspot.hr                    # 1501 (0.27%)
+127.0.0.1 am                             # 1479 (0.27%)
+127.0.0.1 rebrand.ly                     # 1406 (0.25%)
+127.0.0.1 000webhostapp.com              # 1404 (0.25%)
+127.0.0.1 surge.sh                       # 1382 (0.25%)
+127.0.0.1 codeanyapp.com                 # 1382 (0.25%)
+127.0.0.1 webwave.dev                    # 1294 (0.23%)
+127.0.0.1 hergunavantaj.com.tr           # 1293 (0.23%)
+127.0.0.1 crazydomains.com               # 1269 (0.23%)
+127.0.0.1 icu                            # 1222 (0.22%)
+127.0.0.1 cloudflare-ipfs.com            # 1201 (0.22%)
+127.0.0.1 urlz.fr                        # 1143 (0.20%)
+127.0.0.1 cf-ipfs.com                    # 916 (0.16%)
+127.0.0.1 mystrikingly.com               # 896 (0.16%)
+127.0.0.1 cfd                            # 865 (0.16%)
+127.0.0.1 amplifyapp.com                 # 865 (0.16%)
+127.0.0.1 cyou                           # 852 (0.15%)
+127.0.0.1 serv00.net                     # 823 (0.15%)
+127.0.0.1 repl.co                        # 816 (0.15%)
+127.0.0.1 pages.net.br                   # 811 (0.15%)
+127.0.0.1 terbaru-2023.com               # 791 (0.14%)
+127.0.0.1 studio.site                    # 778 (0.14%)
+127.0.0.1 webcindario.com                # 759 (0.14%)
+127.0.0.1 freewebhostmost.com            # 695 (0.12%)
+127.0.0.1 wixstudio.io                   # 684 (0.12%)
+127.0.0.1 indylatinawrds.com             # 671 (0.12%)
+127.0.0.1 replit.app                     # 667 (0.12%)
+127.0.0.1 8724319-coinbase.com           # 654 (0.12%)
+127.0.0.1 club                           # 579 (0.10%)
+127.0.0.1 dns-dynamic.net                # 572 (0.10%)
+127.0.0.1 tw1.ru                         # 572 (0.10%)
+127.0.0.1 aragon.network                 # 561 (0.10%)
