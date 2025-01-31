@@ -7724,7 +7724,7 @@
 127.0.0.1 ipcount.net
 127.0.0.1 g-bot.net
 127.0.0.1 grapeshot.net
-127.0.0.1 hubspot.net
+#127.0.0.1 hubspot.net - in use by qt.io
 127.0.0.1 postsupport.net
 127.0.0.1 cogocast.net
 127.0.0.1 quantcast.net
