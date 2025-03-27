@@ -64,6 +64,7 @@
 127.0.0.1 space	# malware
 127.0.0.1 club	# malware
 127.0.0.1 gdn	# malware
+127.0.0.1 xin	# phishing
 
 
 # More TLDs can be introduced by /etc/fdns/list.phishing
