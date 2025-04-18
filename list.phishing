@@ -7,6 +7,9 @@
 # The list blocks an estimated 50% of all phishing domains out there.
 # In case of false positives, comment out the domain in question (add a #).
 # Copyright FDNS authors, License GPLv3
+#
+# Note: allow .cfd - lots of valid sites!
+#
 
 # Dec 11, 2024
 # loading openphish-2024-2.feed (93000)
