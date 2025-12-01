@@ -8,6 +8,7 @@
 # Note: do not run nxdomain on this list!
 #
 
+127.0.0.1 static.siol.net
 127.0.0.1 adsl-dyn.isp.belgacom.be
 127.0.0.1 adsl-static.isp.belgacom.be
 127.0.0.1 0x.no
