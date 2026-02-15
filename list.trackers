@@ -27,6 +27,10 @@
 # - Nov 19, 2025 - cleanup
 # - Nov 20, 2025 - removed NoTrack Tracker Blocklist - not longer maintained by the author
 # - Nov 20, 2025 - full rebuild
+#
+# Allow list:
+# spot.im
+#
 
 127.0.0.1 apisgoogle.org
 127.0.0.1 pepepush.net
@@ -898,7 +902,7 @@
 127.0.0.1 tru.am
 127.0.0.1 thescv.team
 127.0.0.1 etr.im
-127.0.0.1 spot.im
+#127.0.0.1 spot.im
 127.0.0.1 go.g100.com
 127.0.0.1 panel100.com
 127.0.0.1 gw100-10.com
